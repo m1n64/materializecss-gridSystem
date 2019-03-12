@@ -8,6 +8,6 @@ Conection:
     <link rel="stylesheet" href="dist/materializecss-grid.css">
 
 or minimize version:
-``html
+
     <link rel="stylesheet" href="dist/materializecss-grid.min.css">
-``
+
